@@ -1,0 +1,5 @@
+fork.s : error not legit
+ld.s : error not legit
+lfork.s : error not legit
+lld.s : error not legit
+zjmp.s : error not legit
